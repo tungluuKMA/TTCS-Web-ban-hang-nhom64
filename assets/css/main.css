@@ -4,7 +4,7 @@
 
 .header {
     height: var(--header-height);
-    background-image: linear-gradient(0, #fe6433, #f53e2d);
+    background-image: linear-gradient(0, #76abca, #2b72b0);
 }
 
 .navbar {
@@ -671,7 +671,7 @@
 }
 
 .cart-view-cart:hover {
-    background-color: #f05d41;
+    background-color: #65a4e3;
 }
 
 .cart__list::after {
@@ -717,7 +717,7 @@
     font-size: 1.4rem;
     line-height: 1.4rem;
     border-radius: 10px;
-    border: 2px solid #EE4D2D;
+    border: 2px solid #6ba4dc;
     color: var(--primary-color);
     background-color: var(--white-color);
 }
@@ -773,7 +773,7 @@
 }
 
 .search-btn:hover {
-    background-color: #fb6445;
+    background-color: #7eace7;
     cursor: pointer;
 }
 

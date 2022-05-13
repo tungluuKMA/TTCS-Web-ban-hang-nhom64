@@ -1,5 +1,5 @@
 :root {
-    --primary-color: #EE4D2D;
+    --primary-color: #5395d2;
     --white-color: #fff;
     --black-color: #000;
     --text-color: #333;
@@ -218,7 +218,7 @@ html {
 }
 
 .pagination-item--active .pagination-item__link:hover {
-    background-color: #ed5c3f;
+    background-color: #78bce1;
 }
 
 .pagination-item__link {
