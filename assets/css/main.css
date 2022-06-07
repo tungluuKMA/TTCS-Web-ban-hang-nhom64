@@ -1421,3 +1421,7 @@ i.home-product-item__like-icon-fill {
     font-size: 1.2rem;
     color:#737373;
 }
+
+.google-map {
+    display: block;
+}
